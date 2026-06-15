@@ -137,6 +137,7 @@ dmypy.json
 *.h5
 *.pkl
 *.pickle
+checkpoints/
 
 # Data files
 *.csv
@@ -146,3 +147,7 @@ train_images/
 severstal-steel-defect-detection/
 
 # Large directories
+resnet18_best.pth.zip
+resnet18_traced.pt.zip
+unet_traced.pt.zip
+outputs/runs/
